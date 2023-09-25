@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 File 1 Edited on my local machine
+=======
+File 1 Edited on Github.com
+>>>>>>> 6d6ec7655d4fdcceb308a131c82814dcea421b2b
 Line 2
 Line 3
 Done editing on Github
